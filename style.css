@@ -97,8 +97,9 @@ color: tomato;
 
 .card a {
     text-decoration: none;
-    color: #007bff;
+    color: #454c53;
     font-weight: 500;
+    opacity: 0.5;
 
 }
 
