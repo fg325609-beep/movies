@@ -105,4 +105,6 @@ color: tomato;
 
 .card a:hover {
     text-decoration: underline;
+    color: #007bff;
+    opacity: 1;
 }
